@@ -1,0 +1,1 @@
+In this directory we're just reading and saving the video.
